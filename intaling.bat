@@ -6,7 +6,7 @@ pause
 echo enter your product key
 echo it,s hayden-hayden-hayden-hayden
 set /p input=
-if /i  %onlymoms%==Yes goto setup[2]
+if /i  %onlymoms%==hayden-hayden-hayden-hayden goto setup[2]
 :setup[2]
 cls
 echo copying files
