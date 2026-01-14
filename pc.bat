@@ -1,4 +1,4 @@
 md browser
-md my pc
+md my-pc
 md settings
-shutdown -r -t 0
+start C:\Users\theha\Desktop\windows-11-plus/how-to-use.txt
